@@ -1,1 +1,3 @@
 # LIST YOUR PYTHON PACKAGES HERE
+numpy
+future

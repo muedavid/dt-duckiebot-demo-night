@@ -1,5 +1,5 @@
 # parameters
-ARG REPO_NAME="<REPO_NAME_HERE>"
+ARG REPO_NAME="dt-duckiebot-demo-night"
 
 # ==================================================>
 # ==> Do not change this code
@@ -61,4 +61,4 @@ LABEL org.duckietown.label.base.image "${BASE_IMAGE}:${BASE_TAG}"
 # <==================================================
 
 # maintainer
-LABEL maintainer="<YOUR_FULL_NAME> (<YOUR_EMAIL_ADDRESS>)"
+LABEL maintainer="David_Mueller (<YOUR_EMAIL_ADDRESS>)"
