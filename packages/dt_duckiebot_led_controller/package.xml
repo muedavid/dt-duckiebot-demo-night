@@ -1,5 +1,5 @@
 <package>
-  <name>dt_duckiebot_LED_controller</name>
+  <name>dt_duckiebot_led_controller</name>
   <version>0.1.0</version>
   <description>HALLO</description>
   <maintainer email="YOUR_EMAIL@EXAMPLE.COM">YOUR_FULL_NAME</maintainer>

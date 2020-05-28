@@ -1,0 +1,6 @@
+number_average: 10.0
+segment_white_reference: 12
+segment_white_min: 5
+segment_yellow_reference: 8
+segment_yellow_min: 4
+k_p: 1
