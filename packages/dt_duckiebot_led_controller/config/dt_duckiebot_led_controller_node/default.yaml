@@ -1,6 +1,14 @@
-number_average: 10.0
-segment_white_reference: 12
-segment_white_min: 5
-segment_yellow_reference: 8
-segment_yellow_min: 4
-k_p: 1
+number_average: 15
+
+#reference values
+segment_white_reference_LED: 10
+segment_white_min_LED: 5
+segment_yellow_reference_LED: 6
+segment_yellow_min_LED: 2
+segment_reference_motor: 14
+
+#controller values
+k_p_LED: 0.1
+k_p_motor: 0.6
+k_I_LED: 0.3
+k_I_motor: 0.005
